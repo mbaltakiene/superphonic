@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Super Phonic</string>
+    <string name="search_label">Search</string>
+    <string name="main_activity_description">This is the main screen, where the top picks for the
+        categories Songs, Artists and Albums are displayed. The search box is used to look up for
+        music (search functionality is not implemented). Clicking on a category name, the user will
+        navigate to a new screen. The lists of Views should be dynamically created and added to the
+        screen.
+    </string>
+    <string name="now_playing_activity_description">This is the screen for the currently playing
+        song. Further functionality is not implemented.</string>
+    <string name="songs_activity_description">This is the screen where the list of the songs will
+        be displayed. The user can scroll down the list. The lists of Views should be dynamically
+        created and added to the screen. When the song is clicked, the Now Playing screen will be
+        shown.
+    </string>
+    <string name="artists_activity_description">This is the screen where the list of the artists
+        will be displayed. Lists should by dynamically created. The user can scroll down the list.
+        When the artist is clicked, the personal Artist screen will be shown with his albums and
+        singles.
+    </string>
+    <string name="artist_activity_description">This is the screen where the list of the artist
+        albums and singles is shown. Lists should by dynamically created. If the album is clicked,
+        the Now Playing screen will be shown, playing the first song in the album. If the single
+        is clicked, the Now Playing screen will be shown.
+    </string>
+    <string name="albums_activity_description">This is the screen where the list of the albums will
+        be displayed. Lists should by dynamically created. If the album is clicked, the Now Playing
+        screen will be shown, playing the first song in the album.
+    </string>
+    <string name="category_songs">Top Songs</string>
+    <string name="category_artists">Top Artists</string>
+    <string name="category_albums">Top Albums</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="songs">Songs</string>
+    <string name="artists">Artists</string>
+    <string name="albums">Albums</string>
+    <string name="singles">Singles</string>
+    <string name="show_all">show all</string>
+    <string name="artist_name">Artist</string>
+    <string name="album_name">Album</string>
+    <string name="song_name">Song</string>
+
+</resources>
